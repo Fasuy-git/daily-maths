@@ -25,7 +25,7 @@ $
   f'(x) = u (d v)/(d x) + (d u)/(d x) v = (2x^2 + x e^x)/(2 sqrt(x^2 + e^x) (1 + x^2 + e^x)) + arctan(sqrt(x^2 + e^x))
 $<eq-2-3>
 
-To solve the question, $x = 0$ is substituted into $f'(0)$,  which is shown in *@eq-2-4*.
+To solve the question, $x = 0$ is substituted into $f'(x)$,  which is shown in *@eq-2-4*.
 
 $
   f'(0) = 0 + arctan(1) = 1/4 pi approx 0.79 " (2 d.p)"

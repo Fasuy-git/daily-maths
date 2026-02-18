@@ -11,7 +11,7 @@
 #align()[
   #text(28pt)[#strong[Daily Integral]] \
 
-  #text(15pt)[Easy Derivatives]
+  #text(15pt)[Hard Derivatives]
 ]
 
 #v(1fr)
@@ -28,7 +28,7 @@
 
 #set page(
   header: [
-    Daily Integral - Easy Derivative
+    Daily Integral - Hard Derivative
     #h(1fr)
     #v(-0.3cm)
     #line(length: 100%)
@@ -71,6 +71,6 @@
 #set math.mat(delim: "[")
 #set math.vec(delim: "[")
 
-#include "05-02-26-easy-deriv.typ"
-#include "06-02-26-easy-deriv.typ"
-#include "17-02-26-easy-deriv.typ"
+#include "05-02-26-hard-deriv.typ"
+#include "06-02-26-hard-deriv.typ"
+#include "17-02-26-hard-deriv.typ"
