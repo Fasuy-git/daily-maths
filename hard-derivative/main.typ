@@ -74,3 +74,4 @@
 #include "05-02-26-hard-deriv.typ"
 #include "06-02-26-hard-deriv.typ"
 #include "17-02-26-hard-deriv.typ"
+#include "24-02-26-hard-deriv.typ"

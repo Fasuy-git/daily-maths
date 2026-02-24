@@ -33,3 +33,5 @@ The values of x and y can then be inputted into $f'(x)$ to obtain a solution for
 $
   f'(x) = y^2 / (x - x y ln(x)) = (1.26^2)/(1.2 - 1.2 times 1.26 times ln(1.2)) approx 1.71 " (2 d.p)"
 $<eq-3-4>
+
+#pagebreak()
