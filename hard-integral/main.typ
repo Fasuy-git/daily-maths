@@ -11,7 +11,7 @@
 #align()[
   #text(28pt)[#strong[Daily Integral]] \
 
-  #text(15pt)[Limit]
+  #text(15pt)[Hard Integrals]
 ]
 
 #v(1fr)
@@ -28,7 +28,7 @@
 
 #set page(
   header: [
-    Daily Integral - Limit
+    Daily Integral - Hard Integrals
     #h(1fr)
     #v(-0.3cm)
     #line(length: 100%)
@@ -71,6 +71,4 @@
 #set math.mat(delim: "[")
 #set math.vec(delim: "[")
 
-#include "17-02-26-limit.typ"
-#include "18-02-26-limit.typ"
-
+#include "24-02-26-hard-integral.typ"
